@@ -1,0 +1,12 @@
+123;LUIS;CHUSCANO;cucuta;2
+1;Marlon;G�mez;Soluciones Web;4
+2;Santiago;Cabezas;Soluciones Web;4
+3;Alejandra;Vald�s;Soluciones Web;4
+4;Alejandra;Guzman;Entrenamiento Deportivo;4
+5;Yuren;Aldana;Contadur�a P�blica;4
+6;Jessica;Bola�os;Promoci�n Social;4
+6;Nohora;Castiblanco;Promoci�n Social;2
+7;Elizabeth;Arteaga;Contadur�a P�blica;4
+8;Nicolas;Lozano;Administraci�n de Empresas;1
+9;Nelcy;Gaitan;Soluciones Web;4
+10;bryan;barrios;sistemas;4
